@@ -1,0 +1,39 @@
+Personal Portfolio
+
+# sidebar
+
+alt = Atul Upadhyay
+iOS developer
+
+Show Contacts
+
+Email
+2833617atuld@gmail.com
+
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+
+## service
+
+What i'm doing
+
+alt = iOS Developer
+Web design
+The most modern and high-quality App made at a professional level.
+
+alt = App development 
+iOS development
+High-quality development of sites at the professional level.
+
+alt = mobile app 
+Mobile apps
+Professional development of applications for iOS and Android.
+
+
